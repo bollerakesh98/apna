@@ -1,2 +1,3 @@
-# apna
-learned at apna
+# Apna
+Learned at APNA.
+Author-me
